@@ -1,0 +1,25 @@
+/* omfgdogs.css */
+
+body {
+	background-image:url('assets/omfgdogs.gif');
+}
+
+footer {
+	bottom: 0;
+	right: 0;
+	position: fixed;
+	color: green;
+}
+
+a {
+    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+	font-size: x-large;
+}
+	
+a:link {
+	color:white;
+}
+  
+a:visited {
+	color:white;
+} 
